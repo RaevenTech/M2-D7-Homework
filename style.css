@@ -2,30 +2,31 @@ div .jumbotron h1 {
     color: green;
 }
 div > nav * {
-    color: green;
+    color: rgb(241, 105, 14);
 }
 div .jumbotron a {
-    color: green;
+    color: rgb(23, 0, 128);
 }
 .blog-post:first-of-type {
-    color: green;
+    color: rgb(124, 0, 128);
 }
 .nav a:nth-child(even) {
-    color: green;
+    color: rgb(200, 221, 11);
 }
 .blog-post:last-of-type {
-    color: green;
+    color: rgb(140, 20, 20);
 }
 .p-4:nth-last-of-type(2) li {
-    color: green;
+    color: rgb(240, 109, 22);
 }
 .blog-post:nth-last-of-type(2) .blog-post-meta a {
-    color: green;
+    color: rgb(76, 15, 241);
 }
 footer p:last-child a {
-    color: green;
+    color: rgb(157, 243, 157);
 }
 footer {
+    color: aqua;
 }
 
 /*
