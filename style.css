@@ -1,7 +1,7 @@
 div .jumbotron h1 {
     color: green;
 }
-div > nav {
+div > nav * {
     color: green;
 }
 div .jumbotron a {
